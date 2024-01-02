@@ -6,9 +6,9 @@
 
 - 👯 I’m looking to collaborate on **Software Developer**
 
-- 🤝 I’m looking for help with **Web API**
+- 🤝 I’m looking for help with **API**
 
-- 💬 Ask me about **C#, ASP.NET, WEB API, SQL, AngularJS,**
+- 💬 Ask me about **java,SpringBoot, SQL, ReactJS,**
 
 - 📫 How to reach me **erniraj08@gmail.com**
 
